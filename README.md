@@ -1,6 +1,6 @@
 # flutter_provider
 
-A new Flutter application using provider
+Generador de tablas de puntuaciones entre distintos equipos de futbol. v1.0.0
 
 ## Getting Started
 
